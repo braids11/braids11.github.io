@@ -15,8 +15,6 @@ I’m a Cyber Security professional focusing on:
 
 ### My Certifications
 
-### My Certifications
-
 <a href="https://www.credly.com/badges/50454197-1bc5-4f44-a37e-ee1241dc9839/public_url" target="_blank">
   <img src="assets/credly-badge.png" alt="MAD20 Fundamentals">
 </a>
