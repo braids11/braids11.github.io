@@ -1,7 +1,3 @@
----
-title: ""
----
-
 <link rel="stylesheet" href="assets/custom.css">
 
 # 👋 Hi, I’m Mike Brady
@@ -17,6 +13,7 @@ I’m a Cyber Security professional focusing on:
 - **Email:** mbrady86@outlook.com  
 - **LinkedIn:** [Mike Brady](https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG)
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4dc2c37e-7520-4f57-aabd-32d186609226" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 ---
 
 ## 🧑‍💻 Projects
