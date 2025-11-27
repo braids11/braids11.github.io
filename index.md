@@ -13,7 +13,14 @@ I’m a Cyber Security professional focusing on:
 - **Email:** mbrady86@outlook.com  
 - **LinkedIn:** [Mike Brady](https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4dc2c37e-7520-4f57-aabd-32d186609226" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+### My Certifications
+
+### My Certifications
+
+<a href="https://www.credly.com/badges/4dc2c37e-7520-4f57-aabd-32d186609226/public_url" target="_blank">
+  <img src="assets/credly-badge.png" alt="Credly Badge">
+</a>
+
 ---
 
 ## 🧑‍💻 Projects
