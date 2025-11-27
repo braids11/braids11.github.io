@@ -23,6 +23,7 @@ I’m a Cyber Security professional focusing on:
   <img src="assets/credly-badge.png" alt="MAD20 Threat Intelligence">
 </a>
 
+[![My Credly Badge](https://images.credly.com/size/300x300/images/.../badge.png)](https://www.credly.com/badges/4dc2c37e-7520-4f57-aabd-32d186609226/public_url)
 
 ---
 
