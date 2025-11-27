@@ -1,3 +1,14 @@
+/* Hide the GitHub Pages theme header */
 header.page-header {
+    display: none !important;
+}
+
+/* Optionally hide the site title in Minimal theme */
+h1.project-name {
+    display: none !important;
+}
+
+/* Hide tagline/subtitle if theme adds one */
+h2.project-tagline {
     display: none !important;
 }
