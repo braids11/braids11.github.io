@@ -22,7 +22,7 @@ Hands-on lab work implementing:
 - Detection rules (KQL, SPL, Sigma, EQL, Zeek)
 - Telemetry analysis (Sysmon, Event Logs, PCAPs, Zeek)
 
-- 💻 **Repo:** [detection-engineering-portfolio](https://github.com/YOUR-GITHUB-USERNAME/detection-engineering-portfolio)  
+- 💻 **Repo:** [detection-engineering-portfolio](https://github.com/braids11/detection-engineering-portfolio)  
 - 🌐 **Live site/docs:** https://YOUR-GITHUB-USERNAME.github.io/detection-engineering-portfolio/
 
 ---
