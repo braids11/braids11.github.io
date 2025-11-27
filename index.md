@@ -1,3 +1,9 @@
+---
+title: ""
+---
+
+<link rel="stylesheet" href="assets/custom.css">
+
 # 👋 Hi, I’m Mike Brady
 
 I’m a Cyber Security professional focusing on:
